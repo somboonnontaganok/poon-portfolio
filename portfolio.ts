@@ -12,12 +12,12 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Hanzla Tauqeer',
-  title: "Hi all, I'm Hanzla",
+  name: 'Somboon Nontaganok',
+  title: "Hi all, I'm Somboon",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+    "I'm passionate Full Stack web developer having an experience of web applications with MERN Stack and Cloud Technology",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    'https://docs.google.com/document/d/13IEYjhoqn0wml0Afk9OcARlS9e2-fNPLhGjKnve7rkA/edit?usp=sharing',
 };
 
 export const openSource = {
