@@ -9,9 +9,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint && prettier --check .",
-    "format": "prettier --write ."
+    "start": "next start"
   },
   "dependencies": {
     "@apollo/client": "^3.3.21",
