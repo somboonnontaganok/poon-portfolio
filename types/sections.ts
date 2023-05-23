@@ -81,8 +81,3 @@ export type ProjectType = {
 };
 
 // * FEEDBACK SECTION
-
-export type FeedbackType = {
-  name: string;
-  feedback: string;
-};
