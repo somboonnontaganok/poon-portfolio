@@ -187,8 +187,8 @@ export const seoData: SEODataType = {
   description:
     'A passionate Full Stack Web Developer and AWS Cloud Engineer.',
   author: 'Somboon Nontaganok',
-  image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://front-end-binary-b1.vercel.app/',
+  image: 'https://drive.google.com/drive/my-drive?hl=th',
+  url: 'https://poon-portfolio.vercel.app/',
   keywords: [
     'Somboon',
     'Somboon Nontaganok',
