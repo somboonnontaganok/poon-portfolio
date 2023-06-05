@@ -151,7 +151,7 @@ export const educationInfo: EducationType[] = [
   },
   {
     schoolName: 'The Master Academy',
-    subHeader: 'I am an AWS re/Start THBAN1 cloud engineer learner in Thailand.',
+    subHeader: 'I am an AWS re/Start THBAN1 Junior Cloud Engineer learner in Thailand.',
     duration: 'May 2023 - August 2023',
     desc: 'Learning from 18:00 - 22:00 and  will end at the end of August 2023',
     grade: '97.67% cumulative score',
