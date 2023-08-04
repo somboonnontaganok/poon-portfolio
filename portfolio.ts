@@ -111,7 +111,7 @@ export const skillsSection: SkillsSectionType = {
       title: 'Green Digital Infrastructure Engineer',
       lottieAnimationFile: '/lottie/skills/green_world.json', // Path of Lottie Animation JSON File
       skills: [
-        emoji('⚡ Basic Sustainability in Green Technology (Reduce Carbon Footprint'),
+        emoji('⚡ Basic Sustainability in Green Technology (Reduce Carbon Footprint)'),
         emoji(
           '⚡ To Design Green Digital'
         ),
@@ -186,7 +186,7 @@ export const educationInfo: EducationType[] = [
     schoolName: 'INCO Academy',
     subHeader: 'Cirtificate of Grenn Digital Skills',
     duration: 'Jun 2023 - Jul 2023',
-    desc: 'To พeduce global warming and carbon footprint',
+    desc: 'To reduce global warming and carbon footprint',
     descBullets: [
       'Environmental reminders and practices agreement contains the knowledge and requirements necessary to provide digital tools for sustainable ',
     ],
