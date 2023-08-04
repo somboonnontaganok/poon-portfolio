@@ -107,7 +107,26 @@ export const skillsSection: SkillsSectionType = {
         },
       ],
     },
-    
+    {
+      title: 'Green Digital Infrastructure Engineer',
+      lottieAnimationFile: '/lottie/skills/green_world.json', // Path of Lottie Animation JSON File
+      skills: [
+        emoji('⚡ Basic Sustainability in Green Technology (Reduce Carbon Footprint'),
+        emoji(
+          '⚡ To Design Green Digital'
+        ),
+        emoji(
+          '⚡ Green Skills-Based Careers'
+        ),
+      ],
+      softwareSkills: [
+        // ? Check README To get icon details
+        {
+          skillName: 'Green Digital',
+          fontAwesomeClassName: 'fa-solid:recycle',
+        },
+      ],
+    },
   ],
 };
 
@@ -123,6 +142,10 @@ export const SkillBars: SkillBarsType[] = [
   {
     Stack: 'Programming',
     progressPercentage: '90',
+  },
+  {
+    Stack: 'Green Digital Skills',
+    progressPercentage: '100',
   },
 ];
 
@@ -142,8 +165,7 @@ export const educationInfo: EducationType[] = [
     schoolName: 'Generation Thailand',
     subHeader: 'Cirtificate of Junior Software Developer Cohort 4',
     duration: 'Feb 2023 - May 2023',
-    desc: 'Binary Tree Project (Activity Tracking',
-    grade: '95.65%',
+    desc: 'Binary Tree Project (Activity Tracking)',
     descBullets: [
       'I work hard to study and practice every day. And I became a good Junior Software Developer.',
       'I am now well versed in frontend and backend with the MERN Stack.',
@@ -154,10 +176,19 @@ export const educationInfo: EducationType[] = [
     subHeader: 'I am an AWS re/Start THBAN1 Junior Cloud Engineer learner in Thailand.',
     duration: 'May 2023 - August 2023',
     desc: 'Learning from 18:00 - 22:00 and  will end at the end of August 2023',
-    grade: '97.67% cumulative score',
+    grade: '97.17% cumulative score',
     descBullets: [
       'I work hard to study and practice every day. And I hope to be a good AWS Cloud Engineer.',
 
+    ],
+  },
+  {
+    schoolName: 'INCO Academy',
+    subHeader: 'Cirtificate of Grenn Digital Skills',
+    duration: 'Jun 2023 - Jul 2023',
+    desc: 'To พeduce global warming and carbon footprint',
+    descBullets: [
+      'Environmental reminders and practices agreement contains the knowledge and requirements necessary to provide digital tools for sustainable ',
     ],
   }
 ];

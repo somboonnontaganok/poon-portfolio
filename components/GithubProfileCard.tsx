@@ -25,7 +25,7 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
               </p>
               <p className="text-white mt-3">JSD Cohort Number 4 at Generation Thailand ( Certificate as of 30 May 2023 ) </p>
               <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
-                <a href="mailto:nontaganok@gmail.com">Send mail</a>
+                <a href="mailto:somboon.nontaganok@gmail.com">Send mail</a>
               </div>
               <SocialLinks />
             </Col>
